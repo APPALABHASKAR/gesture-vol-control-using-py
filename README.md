@@ -17,7 +17,7 @@ Setup Instructions
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/APPALABHASKAR/hand-gesture-volume-control.git
+git clone https://github.com/APPALABHASKAR/gesture-vol-control-using-py
 cd hand-gesture-volume-control
 Install the required dependencies:
 bash
